@@ -8,3 +8,10 @@ I've attended various workshops and augmented my knowledge and skills, always se
 
 
 240345920020
+
+Ramesh dagadu Bhondave,Pimpri kolnder talaku-shirigonda dist-Ahmednagar pincode-413701
+
+We developed desktop application (tool) that can give the right information about inventory.
+In this application, we gave an option for stock order management and also added a reordering calculator.
+We used Core Java ,MySql for developing this software . 
+This project was sponsored by Reliance Infrastructure Limited. 
