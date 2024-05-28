@@ -11,7 +11,7 @@ Vidyadham Prashala High School, Shirur. SSC 2017
  rushikeshbhondave99@gmail.com
 rushibhondave5046@gmail.com
 Ramesh dagadu Bhondave,Pimpri kolnder talaku-shirigonda dist-Ahmednagar pincode-413701
-
+Coming to my extracurricular activities, I have a keen interest in following the latest geopolitical news, and I also passionate about travelling.
 We developed desktop application (tool) that can give the right information about inventory.
 In this application, we gave an option for stock order management and also added a reordering calculator.
 We used Core Java ,MySql for developing this software . 
