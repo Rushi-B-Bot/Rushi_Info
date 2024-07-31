@@ -1,0 +1,66 @@
+Project Overview:
+
+1)Developed a Local-Business-And-Service-Provider-Website using React, HTML, CSS, and ASP.NET Web API.
+2)Utilized SQL Server for database management.
+
+/*********************************************************************************************/
+
+Features for Users:
+
+1)Product Information and Comparison: Provides detailed information and comparison of products from nearby shops within a 1 km radius.
+
+2)Order Placement and Delivery: Users can order products with delivery handled by shop owners.
+
+3)Service Provider Information: Offers details about various services like plumbing, carpentry, etc., with scheduling options.
+
+4)Upcoming Shop Information: Keeps users informed about new or upcoming shops in their area.
+
+5)Product Inquiry and Request: Allows users to inquire about unavailable products, with the ability to request shop owners to stock specific items.
+
+
+
+/*********************************************************************************************/
+
+Features for Shop Owners and Service Providers:
+
+1)Free Shop and Service Listing: Provides a free platform for shop owners and service providers to list their businesses.
+
+2)Advertising: Free advertising opportunities on the platform.
+
+3)Data Analysis and Inventory Management: Tools for data analysis and inventory management, enhancing operational efficiency.
+
+/*********************************************************************************************/
+
+Technical Approach:
+
+1)Implemented a robust backend using ASP.NET Web API, facilitating efficient data management and service integration.
+Developed a responsive and user-friendly frontend with React, ensuring a seamless user experience.
+
+/*********************************************************************************************/
+
+Future Scope and Ideas:
+
+1)Enhanced Delivery Tracking: Implement a delivery tracking system for real-time updates.
+2)Mobile App Development: Develop a mobile app for broader accessibility.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+link:-
+1)Front-End Ui==>https://github.com/rushibhondave/Local-Bussiness-UI.git
+2)Front-End+Back-End==>
