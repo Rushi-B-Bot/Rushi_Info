@@ -27,6 +27,8 @@ Instant Order and Collection System:
 
 3)Enabled a convenient "order and collect" service, where users can place orders in advance and collect items at a designated time without the need to wait, ensuring a smooth and efficient shopping experience.
 
+Implemented a feature allowing users to browse specific shop information, including product availability and prices. Developed an online order system where users can place orders and pick them up at a scheduled time, providing a smooth "order and collect" experience without waiting.
+
 
 /*********************************************************************************************/
 
