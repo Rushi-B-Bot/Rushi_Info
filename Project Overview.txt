@@ -21,13 +21,7 @@ Features for Users:
 
 Instant Order and Collection System:
 
-1)Implemented a feature that allows users to browse specific shop information, including product availability, prices, and shop details.
-
-2)Developed a system where users can place orders online, sending a list of desired items directly to the shop.
-
-3)Enabled a convenient "order and collect" service, where users can place orders in advance and collect items at a designated time without the need to wait, ensuring a smooth and efficient shopping experience.
-
-Implemented a feature allowing users to browse specific shop information, including product availability and prices. Developed an online order system where users can place orders and pick them up at a scheduled time, providing a smooth "order and collect" experience without waiting.
+1)Implemented a feature that allows customers to explore particular store information, such as product availability, pricing, and shop data, and place orders online by submitting a list of desired products straight to the shop.Users may pick them up at a specific time without having to wait.
 
 
 /*********************************************************************************************/
@@ -48,10 +42,10 @@ Future Scope and Ideas:
 
 1)Enhanced Delivery Tracking: Implement a delivery tracking system for real-time updates.
 2)Mobile App Development: Develop a mobile app for broader accessibility.
-
+3)
 
 
 
 link:-
 1)Front-End Ui==>https://github.com/rushibhondave/Local-Bussiness-UI.git
-2)Front-End+Back-End==>
+2)Front-End+Back-End==> https://github.com/rushibhondave/Local-Business-And-Service-Provider-Website.git
