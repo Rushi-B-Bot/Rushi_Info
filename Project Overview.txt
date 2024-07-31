@@ -29,12 +29,7 @@ Features for Shop Owners and Service Providers:
 
 3)Data Analysis and Inventory Management: Tools for data analysis and inventory management, enhancing operational efficiency.
 
-/*********************************************************************************************/
 
-Technical Approach:
-
-1)Implemented a robust backend using ASP.NET Web API, facilitating efficient data management and service integration.
-Developed a responsive and user-friendly frontend with React, ensuring a seamless user experience.
 
 /*********************************************************************************************/
 
@@ -42,21 +37,6 @@ Future Scope and Ideas:
 
 1)Enhanced Delivery Tracking: Implement a delivery tracking system for real-time updates.
 2)Mobile App Development: Develop a mobile app for broader accessibility.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
