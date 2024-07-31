@@ -17,6 +17,15 @@ Features for Users:
 
 5)Product Inquiry and Request: Allows users to inquire about unavailable products, with the ability to request shop owners to stock specific items.
 
+/*********************************************************************************************/
+
+Instant Order and Collection System:
+
+1)Implemented a feature that allows users to browse specific shop information, including product availability, prices, and shop details.
+
+2)Developed a system where users can place orders online, sending a list of desired items directly to the shop.
+
+3)Enabled a convenient "order and collect" service, where users can place orders in advance and collect items at a designated time without the need to wait, ensuring a smooth and efficient shopping experience.
 
 
 /*********************************************************************************************/
