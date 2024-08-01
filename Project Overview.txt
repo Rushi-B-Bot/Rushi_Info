@@ -1,25 +1,17 @@
 Project Name :Local-Market-Place Website 
 
 Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Font Awesome.
-Back-End: ASP.NET Web API
+Back-End: .Net ASP.NET Web API Template 
 Database: SQL Server
-Entity framework: ORM
-Sequrity:JWT 
+Entity framework: ORM Tool
+Sequrity:JWT Token
 Platform:AWS Cloud
 
 
 /*********************************************************************************************/
 
-Product Information and Comparison: Offers detailed information and comparison of products from nearby shops within a 1 km radius, helping users make informed choices.
-Order Placement and Delivery: Allows users to place orders online, with shop owners responsible for delivery.
-Service Provider Information: Provides details about various services like plumbing and carpentry, along with options to schedule appointments.
-upcoming Shop Information: Updates users about new or upcoming shop in their area.
-Product Inquiry and Request: Enables users to inquire about unavailable products and request specific items to be stocked by shop owners.
-Instant Order and Collection :Implemented a feature allowing customers to explore store information, including product availability, pricing, and details. Customers can place orders online and pick them up at a scheduled time without waiting.
-Our platform offers free listing and advertising for shop owners and service providers, helping them reach a wider audience. Additionally, we provide tools like an inventory management system
 
-
+Our platform offers a comprehensive solution for local shopping and service needs. Users can access detailed information and comparisons of products from nearby shops within a 2km radius. It also supports online order placement, where shop owners handle delivery, and provides information about various service providers, such as plumbers and carpenters, with options to schedule appointments. The platform keeps users updated about new or upcoming shops in their area and allows them to inquire about unavailable products or request specific items to be stocked. A unique feature enables customers to explore store information, including product availability and pricing, place orders online, and schedule pickups without waiting. Shop owners and service providers benefit from free listings and advertising, reaching a broader audience while utilizing tools like an inventory management system.
 
 link:-
-1)Front-End Ui==>https://github.com/rushibhondave/Local-Bussiness-UI.git
 2)Front-End+Back-End==> https://github.com/rushibhondave/Local-Business-And-Service-Provider-Website.git
