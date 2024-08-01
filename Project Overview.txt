@@ -1,7 +1,7 @@
 Project Name :Local-Market-Place Website 
 
 Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Font Awesome.
-Back-End: .Net ASP.NET Web API Template 
+Back-End: Dot Net (ASP.NET Web API Template)
 Database: SQL Server
 Entity framework: ORM Tool
 Sequrity:JWT Token
