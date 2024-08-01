@@ -3,50 +3,22 @@ Project Overview:
 1)Developed a Local-Market-Place Website using React, HTML, CSS, and ASP.NET Web API.OAuth2 JWT MSTest Entity Framework, ORM tool Axios Rest Automapper DTOs c# Azure Functions
 2)Utilized SQL Server for database management.
 
-Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs
-
-skills
-asp.net ajax,css,web services,ado.net,ajax,jquery,asp.net,html,web api,mvc,wcf,c#,asp.net mvc,entity framework,mvc architecture,vb,sql server,javascript,wcf services,angular,linq,winforms,.net core,.net,asp
-/*********************************************************************************************/
-
-Features for Users:
-
-1)Product Information and Comparison: Provides detailed information and comparison of products from nearby shops within a 1 km radius.
-
-2)Order Placement and Delivery: Users can order products with delivery handled by shop owners.
-
-3)Service Provider Information: Offers details about various services like plumbing, carpentry, etc., with scheduling options.
-
-4)Upcoming Shop Information: Keeps users informed about new or upcoming shops in their area.
-
-5)Product Inquiry and Request: Allows users to inquire about unavailable products, with the ability to request shop owners to stock specific items.
-
-/*********************************************************************************************/
-
-Instant Order and Collection System:
-
-1)Implemented a feature that allows customers to explore particular store information, such as product availability, pricing, and shop data, and place orders online by submitting a list of desired products straight to the shop.Users may pick them up at a specific time without having to wait.
+Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Material UI Font Awesome.
+Back-End: ASP.NET Web API 
+Database: SQL Server
+Entity framework: ORM
+Platform:AWS Cloud
 
 
 /*********************************************************************************************/
 
-Features for Shop Owners and Service Providers:
-
-1)Free Shop and Service Listing: Provides a free platform for shop owners and service providers to list their businesses.
-
-2)Advertising: Free advertising opportunities on the platform.
-
-3)Data Analysis and Inventory Management: Tools for data analysis and inventory management, enhancing operational efficiency.
-
-
-
-/*********************************************************************************************/
-
-Future Scope and Ideas:
-
-1)Enhanced Delivery Tracking: Implement a delivery tracking system for real-time updates.
-2)Mobile App Development: Develop a mobile app for broader accessibility.
-3)
+Product Information and Comparison: Offers detailed information and comparison of products from nearby shops within a 1 km radius, helping users make informed choices.
+Order Placement and Delivery: Allows users to place orders online, with shop owners responsible for delivery.
+Service Provider Information: Provides details about various services like plumbing and carpentry, along with options to schedule appointments.
+upcoming Shop Information: Updates users about new or upcoming shop in their area.
+Product Inquiry and Request: Enables users to inquire about unavailable products and request specific items to be stocked by shop owners.
+Instant Order and Collection :Implemented a feature allowing customers to explore store information, including product availability, pricing, and details. Customers can place orders online and pick them up at a scheduled time without waiting.
+Our platform offers free listing and advertising for shop owners and service providers, helping them reach a wider audience. Additionally, we provide tools like an inventory management system
 
 
 
