@@ -1,7 +1,7 @@
 Project Name :Local-Market-Place Website 
 
-Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Material UI Font Awesome.
-Back-End: ASP.NET Web API 
+Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Font Awesome.
+Back-End: ASP.NET Web API
 Database: SQL Server
 Entity framework: ORM
 Platform:AWS Cloud
