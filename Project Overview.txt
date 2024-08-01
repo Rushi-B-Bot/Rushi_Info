@@ -14,3 +14,6 @@ Local Market Place is a free platform that enables local businesses and service 
 
 The objective of our platform, Local Market Place, is to enhance the local shopping experience by enabling users to compare and purchase products from nearby shops, and schedule services with local providers. We aim to support local businesses by offering free listings and advertising, improve inventory management for shop owners, and streamline the order and pickup process for customers. Additionally, the platform keeps users informed about new shops and leverages advanced technologies for a reliable and efficient user experience.
 link==>https://github.com/rushibhondave/Local-Market-Place-Website.git
+
+
+The objective of our platform, Local Market Place, is to streamline local shopping and service needs by enabling users to easily compare and purchase products from nearby shops, schedule appointments with local service providers, and stay informed about new shops. We support local businesses with free listings and advertising, improve inventory management, and enhance customer convenience through online ordering and pickup scheduling.
