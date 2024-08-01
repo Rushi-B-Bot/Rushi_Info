@@ -1,6 +1,6 @@
 Project Overview:
 
-1)Developed a Local-Business-And-Service-Provider-Website using React, HTML, CSS, and ASP.NET Web API.
+1)Developed a Local-Business-And-Service-Provider-Website using React, HTML, CSS, and ASP.NET Web API.OAuth2 JWT MSTest ORM tool Axios Rest 
 2)Utilized SQL Server for database management.
 
 /*********************************************************************************************/
