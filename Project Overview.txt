@@ -17,3 +17,35 @@ link==>https://github.com/rushibhondave/Local-Market-Place-Website.git
 
 
 The objective of our platform, Local Market Place, is to streamline local shopping and service needs by enabling users to easily compare and purchase products from nearby shops, schedule appointments with local service providers, and stay informed about new shops. We support local businesses with free listings and advertising, improve inventory management, and enhance customer convenience through online ordering and pickup scheduling.
+
+
+
+
+
+Easily browse and compare products from local shops within a 2-kilometer radius.
+
+Access detailed product information and comparisons to make educated choices.
+
+Place orders online and schedule pickups, avoiding long waits.
+
+Find and book local service providers like plumbers and carpenters with ease.
+
+Receive updates about new and upcoming shops in the area.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
