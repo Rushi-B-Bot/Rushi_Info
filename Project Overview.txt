@@ -1,4 +1,4 @@
-ChatGPT
+rChatGPT
 
 Our platform offers a comprehensive solution for local shopping and service needs. Users can access detailed information and comparisons of products from nearby shops within a 2km radius. It also supports online order placement, where shop owners handle delivery, and provides information about various service providers, such as plumbers and carpenters, with options to schedule appointments. The platform keeps users updated about new or upcoming shops in their area and allows them to inquire about unavailable products or request specific items to be stocked. A unique feature enables customers to explore store information, including product availability and pricing, place orders online, and schedule pickups without waiting. Shop owners and service providers benefit from free listings and advertising, reaching a broader audience while utilizing tools like an inventory management system.
  Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Font Awesome.
@@ -43,6 +43,9 @@ Objective: Develop a platform that connects local businesses and service provide
 
 
 
+
+
+The objective of Local Market Place is to provide a user-friendly platform that connects local businesses and service providers with customers. It aims to facilitate easy access to product information, streamline online ordering and scheduling, and enhance local commerce by offering detailed comparisons, order management, and timely updates about shops and services within a 2-kilometer radius.
 
 
 
