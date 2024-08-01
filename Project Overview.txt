@@ -48,7 +48,22 @@ Objective: Develop a platform that connects local businesses and service provide
 The objective of Local Market Place is to provide a user-friendly platform that connects local businesses and service providers with customers. It aims to facilitate easy access to product information, streamline online ordering and scheduling, and enhance local commerce by offering detailed comparisons, order management, and timely updates about shops and services within a 2-kilometer radius.
 
 
+Title: ScrapSavvy 
 
+Duration : 2 months
+
+Platform:ReactJS,BootStrap,jQuery,HTML5,CSS3,ASP.Net core 6,SpringBoot MVC, MySQL,AWS,Jira
+
+ 
+
+Description:
+
+
+github:https://github.com/ScrapSavvym24/ScrapSavvy_M24
+
+
+
+Objective: Our website streamlines scrap collection, processing, recycling along with refurbished item sales and offering an innovative solution for enhanced tracking and management of scrap materials. Technologies: We employ ReactJS | Bootstrap | jQuery | HTML5 | CSS3 for our frontend. Our backend utilizes ASP.NET Core 6 | Spring Boot with data stored in a MySQL database. We have deployed our project on AWS. Benefits: Cost-Effective: Refurbished products offer budget-friendly alternatives to new items. Ethical Choice: Clients reduce environmental impact by purchasing refurbished products, contributing to sustainability.Brand Awareness: Website owners can establish themselves as leaders in sustainability and circular economy, enhancing brand reputation. Future Scope: Partner with government agencies to promote sustainable practices, develop policies, and raise awareness about recycling importance. Expand the platform to new regions, broadening our audience and increasing the impact of sustainable practices.
 
 
 
