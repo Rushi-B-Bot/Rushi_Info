@@ -1,8 +1,11 @@
 Project Overview:
 
-1)Developed a Local-Business-And-Service-Provider-Website using React, HTML, CSS, and ASP.NET Web API.OAuth2 JWT MSTest ORM tool Axios Rest 
+1)Developed a Local-Business-And-Service-Provider-Website using React, HTML, CSS, and ASP.NET Web API.OAuth2 JWT MSTest Entity Framework, ORM tool Axios Rest Automapper DTOs c# Azure Functions
 2)Utilized SQL Server for database management.
 
+
+skills
+asp.net ajax,css,web services,ado.net,ajax,jquery,asp.net,html,web api,mvc,wcf,c#,asp.net mvc,entity framework,mvc architecture,vb,sql server,javascript,wcf services,angular,linq,winforms,.net core,.net,asp
 /*********************************************************************************************/
 
 Features for Users:
