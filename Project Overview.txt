@@ -1,17 +1,5 @@
-Project Name :Local-Market-Place Website 
-
-Front-End: HTML5 CSS3  jQuery sweetalert2  ReactJs Axios Font Awesome.
-Back-End: Dot Net (ASP.NET Web API Template)
+Local Market Place is a free platform designed to allow local businesses and service providers to easily interact with customers and exchange product and service details. The Web Application provides  product information and comparisons within a 2-km radius shop. It allows you to place and deliver orders, view service provider information with scheduling options, get new shop updates, and use a product inquiry system. It also provides a rapid order and collection service, allowing customers to examine store information, make purchases online, and pick them up without waiting. The platform allows businesses to post and promote for free, and it offers features like an inventory management system.
+Front-End: HTML5, CSS3, jQuery, ReactJs, Axios.
+Back-End: ASP.NET Web API
 Database: SQL Server
-Entity framework: ORM Tool
-Sequrity:JWT Token
-Platform:AWS Cloud
-
-
-/*********************************************************************************************/
-
-
-Our platform offers a comprehensive solution for local shopping and service needs. Users can access detailed information and comparisons of products from nearby shops within a 2km radius. It also supports online order placement, where shop owners handle delivery, and provides information about various service providers, such as plumbers and carpenters, with options to schedule appointments. The platform keeps users updated about new or upcoming shops in their area and allows them to inquire about unavailable products or request specific items to be stocked. A unique feature enables customers to explore store information, including product availability and pricing, place orders online, and schedule pickups without waiting. Shop owners and service providers benefit from free listings and advertising, reaching a broader audience while utilizing tools like an inventory management system.
-
-link:-
-2)Front-End+Back-End==> https://github.com/rushibhondave/Local-Business-And-Service-Provider-Website.git
+Platform: AWS Cloud
