@@ -39,7 +39,7 @@ Receive updates about new and upcoming shops in the area.
 
 
 
-
+Objective: Develop a platform that connects local businesses and service providers with customers, offering detailed product information, online ordering, service bookings, and real-time updates, enhancing convenience and supporting community commerce.
 
 
 
