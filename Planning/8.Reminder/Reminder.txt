@@ -43,8 +43,6 @@ Solution:
   
 ✅==> Done  /  ❌==> Remaining
 
-# 🚗 **Car Accessories & Essentials** - Price List 🚗  
-
 | **Product**                                     | **Price**         | **Status**  |
 |------------------------------------------------ |------------------ |------------ |
 | **Vitara Brezza 9-Inch Touchscreen**            | ₹10,000           | ❌          |
@@ -66,29 +64,14 @@ Solution:
 
 
 
-# 🚗 **Car Essentials & Accessories** - Price List 🚗  
-
-## ✅ Carry Essentials  
+# 🚗 ✅ **Car Essentials & Accessories** - Price List 🚗  
 
 | **Product**                                    | **Status**  |
 |------------------------------------------------|-------------|
-| Valid Driving Licence                          | ✅          |
-| Vehicle’s Registration Certificate (RC)        | ✅          |
-| Vehicle’s Pollution Under Control (PUC)        | ✅          |
-| Valid Insurance Certificate                    | ✅          |
-| ID Proofs of All Travellers                    | ✅          |
-
----
-
-## ❌ Unavailable Products  
-
-| **Product**                                    | **Status**  |
-|------------------------------------------------|-------------|
-| Mobile Holder                                  | ❌          |
+| Car Mobile Hanger                              | ❌          |
 | Extra Key                                      | ❌          |
 | RC Card Copy                                   | ❌          |
 | Insurance Paper                                | ❌          |
-| License Card                                   | ❌          |
 | Portable Power Bank                            | ❌          |
 | Bottles Filled with Shampoo                    | ❌          |
 | AC Vent Foam Cleaner                           | ❌          |
@@ -96,7 +79,10 @@ Solution:
 | Petrol Redeem                                  | ❌          |
 | Box for Medicine (Every Tablet Written)        | ❌          |
 | Dehydration/Pitta/Malaml                       | ❌          |
-
+| Valid Driving Licence                          | ✅          |
+| Vehicle’s Registration Certificate (RC)        | ❌          |
+| Valid Insurance Certificate                    | ❌          |
+| ID Proofs of All Travellers                    | ❌          |
 
 
 
