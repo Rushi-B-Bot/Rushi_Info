@@ -17,6 +17,15 @@
                               
 |************************  ✅==> Done  /  ❌==> Remaining *******************|
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+| Data 7   | Data 8   | Data 9   |
+
+
+1) Vitara Brezza 9 Inch Touchscreen ===> Rs 10K  ==>❌
+
 1)Tyre pressur check and pump/Tire inflator and sealant kit  ==>❌
 
 2)Tyre puncture filled liquids 2 (Emergency Rs 1000/1 bottle) ==>❌
