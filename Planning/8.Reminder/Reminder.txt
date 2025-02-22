@@ -43,6 +43,8 @@ Solution:
   
 ✅==> Done  /  ❌==> Remaining
 
+# 🚗 **Car Accessories & Essentials** - Price List 🚗  
+
 | **Product**                                     | **Price**         | **Status**  |
 |------------------------------------------------ |------------------ |------------ |
 | **Vitara Brezza 9-Inch Touchscreen**            | ₹10,000           | ❌          |
@@ -58,6 +60,8 @@ Solution:
 | **Night Driving Goggles**                       | ₹600              | ❌          |
 | **Car Inflatable Mattress (Optional)**          | ₹2,500            | ❌          |
 | **Traction Mat for Emergency Tires (Optional)** | ₹2,500            | ❌          |
+|----------------------------------------------------------------------------------  |
+| **Total**                                       | ₹23,894           |             |
 
 
 
