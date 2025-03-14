@@ -1,0 +1,168 @@
+/*************************************Daily Used***********************************************/
+
+            //this.email = paymentResponse?.data?.merchant?.email || "";
+
+
+
+
+
+
+/*************************************Common Used***********************************************/
+ 
+
+==> Before pushing code to the github run this cmnd (V.IMP)
+==> Entity change karo and  genrate ke badh qury check karo 
+
+1)npm run build               ==> build projject/checking  code
+2)npm ci                      ==> if you install  new package  then run
+2)npm run migration:generate  ==> Write qury not genrate table or column
+3)npm run migration:run       ==> Genrate the table or column 
+4)npx playwright test --workers=1 ==>  the test all test on local(Imp)
+5)npx playwright test verify-clinic-payment-paid.spec.ts --workers=1  ==>Particular  1 test run
+
+
+//not run still yet
+3)npm run migration:show
+4)npm run migration:revert  
+5)SHOW TABLES;
+6)DESCRIBE users;
+
+ // London // Paid
+const paymentDetails = {
+  name: "Test payment-97",    
+  amount: "0.08",             
+  location: "New York",       
+  status: "Unpaid"             
+};
+
+
+/******************************************Rarely Used************************************************/
+
+
+
+
+src/
+│── modules/
+│   ├── student/
+│   │   ├── application/
+│   │   │   ├── commands/
+│   │   │   ├── queries/
+│   │   │── index.ts 
+│   │   ├── domain/
+│   │   │   ├── model/notes.t
+│   │   │   ├── repository/abstract.notes.repository.ts
+│   │   │   ├── service/abstract. notes.service.ts
+│   │   │── index.ts 
+│   │   ├── infrastructure/
+│   │   │   ├── entity/ notes.entity.ts
+│   │   │   ├── mappers/ notes.mapper.ts   
+│   │   │   ├── repository/ notes.repository.ts
+│   │   │   ├── service/ notes.service.ts
+│   │   │── index.ts 
+│   │   ├──  merchantLogo.module.ts
+│   │   ├──  merchantLogo.controller.ts  
+│── main.ts   
+
+
+
+src/
+│── modules/
+│   ├── user/
+│   │   ├── application/
+│   │   │   ├── commands/
+│   │   │   │   ├── upload-user-photo.command.ts
+│   │   │   │   ├── upload-user-photo.handler.ts
+│   │   │   ├── queries/
+│   │   │   │   ├── get-user-photo.query.ts
+│   │   │   │   ├── get-user-photo.handler.ts
+│   │   │── index.ts 
+│   │   ├── domain/
+│   │   │   ├── model/user.ts
+│   │   │   ├── model/user-photo.ts    <-- 🆕 New Model
+│   │   │   ├── repository/abstract.user.repository.ts
+│   │   │   ├── repository/abstract.user-photo.repository.ts    <-- 🆕 New Abstract Repo
+│   │   │   ├── service/abstract.user.service.ts
+│   │   │── index.ts 
+│   │   ├── infrastructure/
+│   │   │   ├── entity/user.entity.ts
+│   │   │   ├── entity/user-photo.entity.ts    <-- 🆕 New Entity
+│   │   │   ├── mappers/user.mapper.ts
+│   │   │   ├── repository/user.repository.ts
+│   │   │   ├── repository/user-photo.repository.ts    <-- 🆕 New Repository
+│   │   │   ├── service/user.service.ts
+│   │   │   ├── service/user-photo.service.ts    <-- 🆕 New Service
+│   │   │── index.ts 
+│   │   ├── user.module.ts
+│   │   ├── user.controller.ts  <-- 🆕 Modify
+│── main.ts   
+
+     
+    [Client/UI]   
+        │
+        ▼
+ ┌───────────────────────┐
+ │  Merchant Service API  │  <-- 🟢 **Exposes Endpoints**
+ └───────────────────────┘
+        │
+        ▼
+ ┌────────────────────────┐
+ │  CQRS Pattern Layer    │  <-- 🔵 **Separates Read & Write**
+ ├──────────────┬────────┤
+ │ Commands     │ Queries │
+ ├──────────────┼────────┤
+ │ saveLogo()   │ getLogoById() │
+ │ updateLogo() │            │
+ │ deleteLogo() │            │
+ └──────────────┴────────┘
+        │
+        ▼
+ ┌──────────────────────────────┐
+ │  Command & Query Handlers    │  <-- 🟡 **Processes Business Logic**
+ ├──────────────────┬───────────┤
+ │ SaveLogoHandler  │ GetLogoByIdHandler │
+ │ UpdateLogoHandler│                    │
+ │ DeleteLogoHandler│                    │
+ └──────────────────┴───────────┘
+        │
+        ▼
+ ┌──────────────────────────┐
+ │   Model & Mapper Layer   │  <-- 🟠 **Transforms Between DB & Logic**
+ ├──────────────┬──────────┤
+ │ MerchantLogo │ MerchantLogoMapper │
+ └──────────────┴──────────┘
+        │
+        ▼
+ ┌──────────────────────────────┐
+ │  DTO (Data Transfer Objects) │  <-- 🔵 **Prevents Overfetching Data**
+ ├──────────────┬──────────┤
+ │ MerchantLogoDTO │ CreateLogoDTO │
+ └──────────────┴──────────┘
+        │
+        ▼
+ ┌────────────────────┐
+ │  Repository Layer  │  <-- 🟣 **Handles DB Queries**
+ ├────────────────────┤
+ │ MerchantLogoRepo   │
+ └────────────────────┘
+        │
+        ▼
+ ┌──────────────────┐
+ │  Database        │  <-- 🔴 **Stores Actual Data**
+ └──────────────────┘
+        │
+        ▼
+ ┌──────────────────┐
+ │ Event Bus (Pub/Sub) │  <-- 🟢 **For Asynchronous Processing**
+ └──────────────────┘
+        │
+        ▼
+ ┌──────────────────┐
+ │ Middleware (Logging, Auth, Validation) │  <-- 🔵 **Cross-cutting Concerns**
+ └──────────────────┘
+
+
+  
+
+
+
+
