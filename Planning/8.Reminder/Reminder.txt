@@ -43,7 +43,7 @@ Solution:
                               
 |************************ # 🚗 Car Accessories & Essentials - Price List 🚗 *******************|
   
-✅==> Done  /  ❌==> Remaining
+✅==> Done  / ⬜/❌ ==> Remaining/Check 
 
 | **Product**                                     | **Price**         | **Status**  |
 |------------------------------------------------ |------------------ |------------ |
