@@ -48,7 +48,6 @@
 |------------------------------------------------|-------------|
 | Extra Key                                      | ⏸️          |
 | AC Vent Foam Cleaner                           | ⏸️          |
-| Portable Power Bank                            | ⛔          |
 | Bottles Filled with Shampoo                    | ⏳          |
 | Hand Wash/Wet Wipes/Tissues/Police Redeem      | ⏳          |
 | Box for Medicine (Every Tablet Written)        | ✅          |
