@@ -25,11 +25,11 @@
 
 | **Product**                                     | **Price**         | **Status**  |
 |------------------------------------------------ |------------------ |------------ |
-| **Tire Inflator**                               | ₹1,599            | ❌  📌      |
-| **theft protection for Car **                   | ₹2,000            | ❌  📌      |
-| **4-Wheeler Puncture Kit**                      | ₹200              | ❌  📌      |
-| **Anti Puncture Liquid for car**                | ₹1000/bottle      | ❌  📌      |
-| **Portable Car Battery Jump Starter**           | ₹3,799            | ❌  📌      |
+| **Tire Inflator**                               | ₹1,599            | ⏳  📌      |
+| **theft protection for Car **                   | ₹2,000            | ⏳ 📌      |
+| **4-Wheeler Puncture Kit**                      | ₹200              | ⏳  📌      |
+| **Anti Puncture Liquid for car**                | ₹1000/bottle      | ⏳  📌      |
+| **Portable Car Battery Jump Starter**           | ₹3,799            | ⏳  📌      |
 | **Vitara Brezza 9-Inch Touchscreen**            | ₹10,000           | ❌          |
 | **Car Perfume**                                 | ₹400              | ❌          |
 | **Blind Spot Mirror for Car**                   | ₹100              | ❌          |
@@ -73,27 +73,25 @@ Highway Drive	                      34 PSI	          34 PSI
 2.36 PSI in rear only when boot is full or long highway trip with full passengers.
 
 
-|************************ # 🚗 Buy product for Car -- Accessories 🚗 *******************|
+|************************ # 🚗 Buy product for Car -- Accessories (Imp - 5) 🚗 *******************|
 
 
-1) **Tire Inflator** : https://www.amazon.in/Portable-Inflator-Pressure-Bicycles-Inflatables/dp/B09V7YNCNV/ref=sr_1_5?adgrpid=122984870374&dib=eyJ2IjoiMSJ9.P6VcEcG9qyKYWmQyRjdYquYIDWOcJcAcgZEor59xPupL95jHQusnciA8J1BUKEvrmfFCUoSHi0gTXNXsaKi5IHFvsL9q-MRD9c0dOwO8MbKaKk_dcp1WYG44SSf-JCxB7X3qWw_ss11T7Lj6dCDud2j1Je6PNij15yO6fV9jxQYAdmcTcc0BDvcMPEbwhagtGKl_xuUHQPjss7VV11o6zEpg2_c_4NqnwFL3gkjpiiYzHAzQHmjxEAxtRQwqKyahCmk5C3g3WMIt_y5CHImUwU-ocLyWncWiUj7MQGGPNt4.FhX8VO4BVAsePsmEH-E9gsPZR66pRbwUdj52zpOg8gU&dib_tag=se&ext_vrnc=hi&hvadid=530664941222&hvdev=c&hvlocphy=9062088&hvnetw=g&hvqmt=e&hvrand=6020962774058210550&hvtargid=kwd-1433383677563&hydadcr=16704_1906269&keywords=agaro%2Btyre%2Binflator%2Bfor%2Bcar&mcid=e62082b775bb39dea52b3a3906138cc2&qid=1749381787&sr=8-5&th=1
+1) Tire Inflator : https://www.amazon.in/Portable-Inflator-Pressure-Bicycles-Inflatables/dp/B09V7YNCNV/ref=sr_1_5?adgrpid=122984870374&dib=eyJ2IjoiMSJ9.P6VcEcG9qyKYWmQyRjdYquYIDWOcJcAcgZEor59xPupL95jHQusnciA8J1BUKEvrmfFCUoSHi0gTXNXsaKi5IHFvsL9q-MRD9c0dOwO8MbKaKk_dcp1WYG44SSf-JCxB7X3qWw_ss11T7Lj6dCDud2j1Je6PNij15yO6fV9jxQYAdmcTcc0BDvcMPEbwhagtGKl_xuUHQPjss7VV11o6zEpg2_c_4NqnwFL3gkjpiiYzHAzQHmjxEAxtRQwqKyahCmk5C3g3WMIt_y5CHImUwU-ocLyWncWiUj7MQGGPNt4.FhX8VO4BVAsePsmEH-E9gsPZR66pRbwUdj52zpOg8gU&dib_tag=se&ext_vrnc=hi&hvadid=530664941222&hvdev=c&hvlocphy=9062088&hvnetw=g&hvqmt=e&hvrand=6020962774058210550&hvtargid=kwd-1433383677563&hydadcr=16704_1906269&keywords=agaro%2Btyre%2Binflator%2Bfor%2Bcar&mcid=e62082b775bb39dea52b3a3906138cc2&qid=1749381787&sr=8-5&th=1
 
 
 2) Portable Car Battery Jump Starter :
 
-3)amici auto puncture kit : http://amazon.in/amiciAuto-Tubeless-Puncture-Complete-Storage/dp/B078RJ46JR?crid=GTH1KQM6YTQ1&dib=eyJ2IjoiMSJ9.cHh4ZEYxsYc2CzdgWUYE7dkr4PfWqMyOCvz0EiAq4Q96_osQp98Np3_3xa3pVc2gnQo_0q_Mlf1OFEqCWl-1vmph8syqSxME9xzlwaHZYfQZiZVNCk-gN4wKPTM4HB7DNoL4vDmxMFfIjPJ4A4t6EoUqOYe4HJM9loY9PmZDZ5azKNFHsJIz92rWZ_HmaRwhZYhZ_vINL7xaobOkBEvOcZZYk3I_3qZVvV_-LCtR8LCRzOR_3nZi4fEgVUGgsx84kCSopzZxcFkSlLD_qilvWRzQjdOgL27ex7CYjzCcIM1B7mqtZn0-BvJsCuQWJdqXPDCnP_MvVOFnGxd53vhALCrNj4zAWTvnoL6SO_cpZjuMuv3KLGPT8-M4u74KYkEZAI0jdHpvurvsjwzH4p_VfyvVn52u8rGDVvSbtE3KGTYXz0oQubKORrzmNPzSGL4X.RJ8ybQivdQtikLRwUsN6Ji3y5TrT4wEq--BdF6kKinQ&dib_tag=se&keywords=amici+auto+puncture+kit&nsdOptOutParam=true&qid=1736435041&sprefix=amiciauto+puncture+ki,aps,251&sr=8-2&linkCode=sl1&tag=mj3956-21&linkId=590003a0826740d19e0eb343eee07782&language=en_IN&ref_=as_li_ss_tl
+3) theft protection for Car  : https://www.amazon.in/s?k=anti-theft+device+for+cars+Tire+Claw&crid=2PCH7YUNHB4Z&sprefix=anti-theft+device+for+cars+tire+claw%2Caps%2C287&ref=nb_sb_noss
 
-4)Tire Sealant | Anti Puncture Liquid  : https://www.flipkart.com/redtize-tubeless-tire-sealant-anti-puncture-liquid-bike-car-tyre-repair-kit/p/itme507e5d3fe59d?pid=PRIGMANPCBHZPQJQ
+4) amici auto puncture kit : http://amazon.in/amiciAuto-Tubeless-Puncture-Complete-Storage/dp/B078RJ46JR?crid=GTH1KQM6YTQ1&dib=eyJ2IjoiMSJ9.cHh4ZEYxsYc2CzdgWUYE7dkr4PfWqMyOCvz0EiAq4Q96_osQp98Np3_3xa3pVc2gnQo_0q_Mlf1OFEqCWl-1vmph8syqSxME9xzlwaHZYfQZiZVNCk-gN4wKPTM4HB7DNoL4vDmxMFfIjPJ4A4t6EoUqOYe4HJM9loY9PmZDZ5azKNFHsJIz92rWZ_HmaRwhZYhZ_vINL7xaobOkBEvOcZZYk3I_3qZVvV_-LCtR8LCRzOR_3nZi4fEgVUGgsx84kCSopzZxcFkSlLD_qilvWRzQjdOgL27ex7CYjzCcIM1B7mqtZn0-BvJsCuQWJdqXPDCnP_MvVOFnGxd53vhALCrNj4zAWTvnoL6SO_cpZjuMuv3KLGPT8-M4u74KYkEZAI0jdHpvurvsjwzH4p_VfyvVn52u8rGDVvSbtE3KGTYXz0oQubKORrzmNPzSGL4X.RJ8ybQivdQtikLRwUsN6Ji3y5TrT4wEq--BdF6kKinQ&dib_tag=se&keywords=amici+auto+puncture+kit&nsdOptOutParam=true&qid=1736435041&sprefix=amiciauto+puncture+ki,aps,251&sr=8-2&linkCode=sl1&tag=mj3956-21&linkId=590003a0826740d19e0eb343eee07782&language=en_IN&ref_=as_li_ss_l
+
 
 5) 46 in 1 Pcs Tool Kit Socket wrench  : https://www.flipkart.com/search?q=46+in+1+Pcs+Tool+Kit+Socket+wrench+&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&sort=popularity
 
-6)theft protection for Car  : https://www.meesho.com/universal-car-wheel-lock/p/67ku5r
+6) Onelap Micro GPS  : https://www.amazon.in/Onelap-Telematics-Micro-Waterproof-Tracker/dp/B082FL3G8B?crid=3SQQSC3ZXSJUY&dib=eyJ2IjoiMSJ9.6qv6taL7cZ6I3cLXSJXWLGVrpadiKB9JdlshStDQZ1p2ZFhAIiRZ07v-CrW0dO_jRzDPog7mSZyUudgBnAjJSNZdP2nlh4pRMFmS2J9pWCuMqO4yi5mt4YMYV9uYpsLqw1osRsKWo0TL2asiaZvwSA.CrIROewFXyLT3YEPTWve6VfJyBNXVSbKfeOFzUbv_a8&dib_tag=se&keywords=onelap%2Bquikplate&nsdOptOutParam=true&qid=1736434428&sprefix=onelap%2Bquikflate%2Caps%2C252&sr=8-4&th=1&linkCode=sl1&tag=mj3956-21&linkId=b31d85ce1540bc9dae9d3dddada769c7&language=en_IN&ref_=as_li_ss_tl
 
 
-
-
-
-
+7)Tire Sealant | Anti Puncture Liquid  : 
 
 |************************ # 🚗 Travlling information- Trip plans 🚗 *******************|
 
