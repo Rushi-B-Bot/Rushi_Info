@@ -33,25 +33,24 @@
 | **Anti Puncture Liquid for car**                | ₹1000/bottle      | ⏳        |
 | **Vitara Brezza 9-Inch Touchscreen**            | ₹10,000           | ❌   📌   |
 | **Onelap Micro GPS **                           | ₹2,690            | ❌   📌   |
-| **Blind Spot Mirror for Car**                   | ₹100              | ❌   📌   |
-| **Night Driving Goggles**                       | ₹600              | ❌   📌   |
-| **Car Perfume**                                 | ₹400              | ❌        |
+| **Blind Spot Mirror for Car / Car Mobile Hanger | ₹500              | ❌   📌   |
+| **Night Driving Goggles**                       | ₹600              | ⛔        |
+| **Car Perfume**                                 | ₹400              | ⛔        |
 |---------------------------------------------------------------------------------- |
 | **Total**                                       | ₹24,394           |             |
 
 
 
 
-# 🚗 ✅ ** Normal Accessories 
+# 🚗 ✅ ** Bring Accessories 
 
 | **Product**                                    | **Status**  |
 |------------------------------------------------|-------------|
-| Car Mobile Hanger                              | ❌          |
-| Extra Key                                      | ❌          |
-| Portable Power Bank                            | ❌          |
-| Bottles Filled with Shampoo                    | ❌          |
-| AC Vent Foam Cleaner                           | ❌          |
-| Hand Wash/Wet Wipes/Tissues/Police Redeem      | ❌          |
+| Extra Key                                      | ⏸️          |
+| AC Vent Foam Cleaner                           | ⏸️          |
+| Portable Power Bank                            | ⛔          |
+| Bottles Filled with Shampoo                    | ⏳          |
+| Hand Wash/Wet Wipes/Tissues/Police Redeem      | ⏳          |
 | Box for Medicine (Every Tablet Written)        | ✅          |
 
 
