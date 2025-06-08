@@ -26,8 +26,8 @@
 | **Product**                                     | **Price**         |   Status  |
 |------------------------------------------------ |------------------ |-----------|
 | **Tire Inflator**                               | ₹3,250            | 📢❗️      |
-| **Tyre Pressure Monitoring System **            | ₹2,500            | 📢❗️      |
-| **Portable Car Battery Jump Starter**           | ₹4,500            | ⏳        |
+| **Portable Car Battery Jump Starter**           | ₹4,500            | 📢❗️      |
+| **Tyre Pressure Monitoring System **            | ₹2,500            | ⏳        |
 | **theft protection for Car **                   | ₹1,000            | ⏳        |
 | **4-Wheeler Puncture Kit**                      | ₹700              | ⏳        |
 | **Anti Puncture Liquid for car**                | ₹1000/bottle      | ⏳        |
