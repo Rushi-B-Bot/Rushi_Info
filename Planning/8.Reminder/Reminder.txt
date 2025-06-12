@@ -26,7 +26,7 @@
 | **Product**                                     | **Price**         |   Status  |
 |------------------------------------------------ |------------------ |-----------|
 | **Tire Inflator**                               | ₹3,250            | 📢❗️      |
-| **Tyre Pressure measure ==> buy to the shop**   | ₹500              | 📢❗️      |
+| **Tyre Pressure measure **   | ₹500              | 📢❗️      |
 | **4-Wheeler Puncture Kit**                      | ₹700              | 📢❗️      |
 | **Blind Spot Mirror for Car / Car Mobile Hanger | ₹500              | 📢❗️      |
 | **Portable Car Battery Jump Starter**           | ₹4,500            | ⏳        |
