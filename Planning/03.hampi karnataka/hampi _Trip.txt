@@ -161,10 +161,11 @@ Pack bags at night.
 
 ----------------------Trip Expenses----------------------
 Category	Total	Per Person
-Fuel + Toll	₹9,500	₹1,900
+Fuel + 	₹9,500	₹1,900
 Stay (4 nights)	₹10,000	₹2,000
 Food	₹6,000	₹1,200
 Entry + Misc	₹3,000	₹600
+Toll : 1500
 
 TOTAL = ₹28,500 (₹5,700 per person)
 
