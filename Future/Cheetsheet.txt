@@ -29,14 +29,13 @@ For every topic, explain everything from beginner to advanced.
 ### Include the following sections:
 
 * ✅ Definition
-* ✅ Why we need it
+* ✅ In detailed Why we need it and why we used
 * ✅ Problem without it
 * ✅ Internal working (how {Language / Tool Name take here} handles it internally)
 * ✅ Rules and limitations
 * ✅ Syntax
 * ✅ Memory diagrams (whenever helpful)
 * ✅ Flow diagrams (if needed)
-* ✅ Real-world analogy
 * ✅ Multiple examples with proper(Basic → Intermediate → Advanced)
 * ✅ Debugging tips
 * ✅ Best practices
