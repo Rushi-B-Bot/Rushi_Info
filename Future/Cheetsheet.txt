@@ -1,3 +1,102 @@
+1) # Python OOP Learning Instructions
+
+I want to learn **one topic at a time**.
+
+Please focus on only one concept in each lesson and explain it thoroughly. Do not move to the next topic until I explicitly say, "Next topic."
+
+## Topics (in order)
+
+1. Class Methods
+2. Static Methods
+3. Encapsulation
+4. Inheritance
+5. Polymorphism
+6. Abstraction
+7. Composition
+8. Aggregation
+9. Association
+10. Magic (Dunder) Methods
+11. SOLID Principles
+12. Design Patterns
+
+---
+
+## Teaching Style
+
+For every topic, explain everything from beginner to advanced.
+
+### Include the following sections:
+
+* ✅ Definition
+* ✅ Why we need it
+* ✅ Problem without it
+* ✅ Internal working (how Python handles it internally)
+* ✅ Rules and limitations
+* ✅ Syntax
+* ✅ Memory diagrams (whenever helpful)
+* ✅ Flow diagrams (if needed)
+* ✅ Real-world analogy
+* ✅ Multiple examples with proper(Basic → Intermediate → Advanced)
+* ✅ Debugging tips
+* ✅ Best practices
+* ✅ Interview questions (Basic → Advanced)
+* ✅ Frequently asked interview follow-up questions
+* ✅ FastAPI usage
+* ✅ E-commerce use cases
+* ✅ FinTech use cases
+* ✅ Summary
+* ✅ Cheat sheet
+* ✅ Practice questions (Easy → Medium → Hard)
+* ✅ Mini project exercise
+* ✅ One real-world project example that uses all topics learned so far
+
+---
+
+## Teaching Rules
+
+* Start from the absolute basics.
+* Assume I am learning the topic for the first time.
+* Explain **why** before explaining **how**.
+* Use simple English.
+* Avoid unnecessary jargon.
+* Explain every line of code.
+* Use real-world examples whenever possible.
+* Build examples step by step instead of showing a large code block at once.
+* Show memory diagrams whenever they help explain the concept.
+* Explain what happens internally in Python.
+* Compare similar concepts whenever appropriate.
+* Highlight common interview traps and misconceptions.
+* Give me time to understand before introducing the next idea.
+
+---
+
+## Practice Rules
+
+After each topic:
+
+1. Give me practice question in the proper and real life and project realted 
+2. Let me solve them myself with you
+5. Only after I fully understand the current topic should we move to the next one.
+
+---
+
+## Important Rule
+
+Never skip steps or assume prior knowledge.
+
+I want to master each topic completely before moving on.
+
+When I type **"Next topic"**, begin teaching the next topic in the list using the same teaching format.
+
+
+
+
+
+
+
+
+
+2) ============================================================================
 # Python OOP Learning Context and Instructions
 
 I want to learn **one topic at a time**.
