@@ -31,7 +31,7 @@ For every topic, explain everything from beginner to advanced.
 * ✅ Definition
 * ✅ Why we need it
 * ✅ Problem without it
-* ✅ Internal working (how Python handles it internally)
+* ✅ Internal working (how {Language / Tool Name take here} handles it internally)
 * ✅ Rules and limitations
 * ✅ Syntax
 * ✅ Memory diagrams (whenever helpful)
