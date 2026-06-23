@@ -1,4 +1,5 @@
-1) # Python OOP Learning Instructions
+1) 
+Language / Tool Name : Python OOP Learning Instructions
 
 I want to learn **one topic at a time**.
 
@@ -89,14 +90,9 @@ I want to master each topic completely before moving on.
 When I type **"Next topic"**, begin teaching the next topic in the list using the same teaching format.
 
 
-
-
-
-
-
-
-
 2) ============================================================================
+
+
 # Python OOP Learning Context and Instructions
 
 I want to learn **one topic at a time**.
