@@ -1,0 +1,395 @@
+# Python OOP Learning Context and Instructions
+
+I want to learn **one topic at a time**.
+
+Please focus on **only one concept** in each lesson and explain it thoroughly. **Do not move to the next topic until I explicitly say, "Next topic."**
+
+## Topics (in order)
+
+1. Class Methods
+2. Static Methods
+3. Encapsulation
+4. Inheritance
+5. Polymorphism
+6. Abstraction
+7. Composition
+8. Aggregation
+9. Association
+10. Magic (Dunder) Methods
+11. SOLID Principles
+12. Design Patterns
+
+---
+
+# My Learning Goal
+
+I am learning **Python OOP** because I want to become a **Cloud & DevOps Engineer**. Although my primary focus is Cloud and DevOps, I also want strong Python skills because Python is widely used for:
+
+* Cloud Automation
+* DevOps Automation
+* Infrastructure as Code
+* CI/CD Pipelines
+* Monitoring and Logging
+* Scripting
+* Backend Development using FastAPI
+* Building REST APIs
+* Automation Tools
+* Kubernetes Operators
+* AWS Lambda Functions
+* Microservices
+
+I am also building **E-commerce** and **FinTech** projects for my portfolio, resume, and hands-on learning.
+
+So, whenever you explain a Python concept, teach it from the perspective of:
+
+* Python Developer
+* FastAPI Backend Developer
+* Cloud Engineer
+* DevOps Engineer
+* E-commerce Project
+* FinTech Project
+
+Do not teach Python only from an academic perspective. Always connect the concept to real-world software development and production systems.
+
+---
+
+# For Every Topic, Include
+
+## 1. Definition
+
+* What is it?
+* Why does Python provide this feature?
+* What problem does it solve?
+
+---
+
+## 2. Why We Need It
+
+Explain:
+
+* Why developers use it.
+* What problems it solves.
+* What happens if we don't use it.
+* Why it is important in large-scale projects.
+
+---
+
+## 3. Internal Working
+
+Explain how Python handles it internally.
+
+Include:
+
+* Memory flow
+* Object creation
+* Method lookup
+* Attribute lookup
+* Call flow
+* Execution flow
+
+Use diagrams whenever needed.
+
+---
+
+## 4. Rules
+
+Explain every rule.
+
+Examples:
+
+* When to use it
+* When NOT to use it
+* Limitations
+* Common interview rules
+* Best practices
+* Common misconceptions
+
+---
+
+## 5. Syntax
+
+Start with the simplest syntax.
+
+Then gradually move toward advanced usage.
+
+Explain every keyword.
+
+---
+
+## 6. Every Possible Operation
+
+Explain every common operation related to that topic.
+
+Examples:
+
+* Creation
+* Modification
+* Access
+* Update
+* Delete
+* Override
+* Extend
+* Reuse
+* Validation
+* Customization
+* Multiple implementations
+* Any other operations relevant to the topic
+
+Explain:
+
+* How
+* Why
+* When
+* Where
+* Advantages
+* Disadvantages
+
+---
+
+## 7. Examples
+
+Provide multiple examples:
+
+* Very Basic
+* Beginner
+* Intermediate
+* Advanced
+* Production-level
+
+Explain every line of code.
+
+Never skip steps.
+
+---
+
+## 8. Real-Life Analogy
+
+Give easy-to-understand real-life examples.
+
+Use examples such as:
+
+* Bank
+* ATM
+* Shopping Cart
+* Amazon
+* Flipkart
+* Hospital
+* School
+* Company
+* Employee
+* Payment Gateway
+* Cloud Infrastructure
+* Kubernetes
+* Docker
+* AWS Services
+
+---
+
+## 9. Real-Life Project Usage
+
+For every topic, explain:
+
+### FastAPI
+
+* How this concept is used.
+* Where it appears.
+* Why it is used.
+* Example API implementation.
+
+### E-commerce
+
+Examples such as:
+
+* Product
+* Cart
+* Order
+* Payment
+* Inventory
+* User
+* Authentication
+* Coupon
+* Shipping
+
+Explain where the concept naturally fits.
+
+### FinTech
+
+Examples such as:
+
+* Wallet
+* Bank Account
+* Transaction
+* Payment
+* UPI
+* Card
+* Loan
+* Interest Calculation
+* Fraud Detection
+* Ledger
+
+Explain where and why the concept is used.
+
+### Cloud & DevOps
+
+Show how the concept is used in:
+
+* AWS
+* Azure
+* GCP
+* Docker
+* Kubernetes
+* Terraform
+* Ansible
+* Jenkins
+* GitHub Actions
+* CI/CD
+* Monitoring
+* Logging
+* Automation Scripts
+* Infrastructure Management
+* Deployment Pipelines
+
+Focus on practical, production-oriented examples.
+
+---
+
+## 10. Project Perspective
+
+For every concept, explain:
+
+* Where it is used in a project.
+* Why it is used there.
+* Which layer of the application uses it.
+* Whether it belongs in:
+
+  * Models
+  * Services
+  * Controllers
+  * Repositories
+  * Utilities
+  * Middleware
+  * Authentication
+  * Configuration
+  * Database
+  * Background Tasks
+  * Deployment Scripts
+
+---
+
+## 11. Conditions
+
+Explain:
+
+* When should we use it?
+* When should we avoid it?
+* How do we know this is the correct solution?
+* What are the alternatives?
+
+---
+
+## 12. Common Mistakes
+
+Explain:
+
+* Beginner mistakes
+* Interview mistakes
+* Project mistakes
+* Performance mistakes
+
+Show how to fix each one.
+
+---
+
+## 13. Best Practices
+
+Explain production-level best practices.
+
+Include:
+
+* Clean Code
+* Scalability
+* Readability
+* Maintainability
+* Reusability
+* Performance
+* Security
+
+---
+
+## 14. Interview Questions
+
+Include:
+
+* Beginner
+* Intermediate
+* Advanced
+* Scenario-based
+* Project-based
+
+---
+
+## 15. Summary
+
+Provide:
+
+* Key points
+* Cheat sheet
+* Comparison table (if applicable)
+
+---
+
+## 16. Practice Questions
+
+Give:
+
+* Easy
+* Medium
+* Hard
+
+Do not reveal the answers until I attempt them.
+
+---
+
+## 17. Mini Project
+
+Create a small project based only on the current topic.
+
+---
+
+## 18. Full Real Project Example
+
+At the end of every topic, show how this concept would be used in:
+
+* FastAPI Backend
+* E-commerce Application
+* FinTech Application
+* Cloud Automation Script
+* DevOps Tool
+
+Also explain:
+
+* Which file contains it.
+* Why it belongs there.
+* How it interacts with other components.
+* How it scales in production.
+* How companies typically implement it.
+
+---
+
+# Teaching Rules
+
+* Teach only **one topic at a time**.
+* Never assume prior knowledge.
+* Explain every line of code.
+* Build concepts from beginner to advanced.
+* Use diagrams whenever useful.
+* Explain internal working before advanced examples.
+* Do not skip important details.
+* Continuously relate the concept to real-world software development.
+* Emphasize production-ready coding practices rather than only interview-style examples.
+
+# Important Rule
+
+I am not learning Python just to solve coding problems. I am learning it to become a better **Cloud & DevOps Engineer** who can confidently build and maintain **FastAPI backends**, **automation tools**, and **real-world E-commerce and FinTech applications**. Please keep this perspective throughout every lesson and tailor explanations accordingly.
+
+Move to the next topic **only when I say: "Next topic."**
