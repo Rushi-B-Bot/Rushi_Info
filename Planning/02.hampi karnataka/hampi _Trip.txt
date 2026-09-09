@@ -50,9 +50,9 @@ Category	Total (₹)	Per Person (₹)
 
 ⛽ Fuel :-  ₹12,320	==  ₹ 2,500
 
-🏨 Stay (4 Nights) : -  ₹10,000 ==	₹2,000
+🏨 Stay (4 Nights) : -  ₹10,000 ==	₹2500
 
-🍽️ Food : -  ₹2500
+🍽️ Food : -  ₹3000
 
 🎫 Entry Tickets (Hampi + Badami) =   ₹2500 / 5 ==   ₹500
 
@@ -62,7 +62,7 @@ Category	Total (₹)	Per Person (₹)
 
 =========================================
 
-Total : ₹ 8500
+Total : ₹ 8.500
 
 ----------------------Hotel----------------------
 The King On The Rocks : https://maps.app.goo.gl/ZAejiL5kfVXwjHT97
